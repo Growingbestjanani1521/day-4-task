@@ -1,0 +1,7 @@
+q1. do the programs in anonymous and IIFE 
+ans : script.js
+
+q2. do the below programs in arrow functions
+ans: script.js
+
+
